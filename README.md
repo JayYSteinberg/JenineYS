@@ -12,7 +12,7 @@ Frontend engineer with a proven ability to deliver robust, effective products in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenineYS&layout=compact)](https://github.com/JenineYS/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenpioneer&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
+
 
 <!---
 JenineYS/JenineYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
