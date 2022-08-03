@@ -10,7 +10,7 @@ Frontend engineer with a proven ability to deliver robust, effective products in
 
 ![Jay's Github Stats](https://github-readme-stats.vercel.app/api?username=JenineYS&show_icons=true&theme=dark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenineYS&layout=compact)](https://github.com/JenineYS/github-readme-stats)
 
 <!---
 JenineYS/JenineYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
