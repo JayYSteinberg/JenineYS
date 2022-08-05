@@ -8,8 +8,8 @@ Frontend engineer with a proven ability to deliver robust, effective products in
 
 📫 Reach me at: jenine.steinberg@gmail.com
 
+![Jay's Github Stats](https://github-readme-stats.vercel.app/api?username=JenineYS&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenineYS&layout=compact)](https://github.com/JenineYS/github-readme-stats)
 
 
 
